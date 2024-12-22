@@ -50,7 +50,7 @@ const Login = () => {
   const handleStudentDemoChange = (event) => {
     setIsStudentDemoChecked(event.target.checked);
     if (event.target.checked) {
-      email.current.value = "studentdemo@emithru.com";
+      email.current.value = "student@emithru.com";
       password.current.value = "studentpassword";
       setIsFacultyDemoChecked(false);
     } else {
