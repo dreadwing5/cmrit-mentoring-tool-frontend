@@ -28,7 +28,7 @@ const facultyNavConfig = [
   { text: "Threads", icon: <QuestionAnswerOutlinedIcon />, link: "/threads" },
   { text: "Report", icon: <ReportOutlinedIcon />, link: "/report" },
   { text: "Meetings", icon: <EventOutlinedIcon />, link: "/meetings" },
-  { text: "Chat", icon: <ChatOutlinedIcon />, link: "/chat" },
+  // { text: "Chat", icon: <ChatOutlinedIcon />, link: "/chat" },
   { text: "Campus Buddy", icon: <InfoOutlinedIcon />, link: "/campus-buddy" },
   { text: "My Mentees", icon: <PersonOutlinedIcon />, link: "/mentees" },
 ];
@@ -38,7 +38,7 @@ const studentNavConfig = [
   { text: "Threads", icon: <QuestionAnswerOutlinedIcon />, link: "/threads" },
   { text: "Report", icon: <ReportOutlinedIcon />, link: "/report" },
   { text: "Meetings", icon: <EventOutlinedIcon />, link: "/meetings" },
-  { text: "Chat", icon: <ChatOutlinedIcon />, link: "/chat" },
+  // { text: "Chat", icon: <ChatOutlinedIcon />, link: "/chat" },
   { text: "Campus Buddy", icon: <InfoOutlinedIcon />, link: "/campus-buddy" },
 ];
 
